@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the report below."
+title: "Investigating the Matching Law in Transformer-Based Reinforcement Learning Agents"
+type: software
+authors:
+  - given-names: Yagmur
+    family-names: Karakoc
+  - given-names: Emad
+    family-names: Sharifi
+  - given-names: Gagana
+    family-names: "M D"
+  - given-names: Zahra
+    family-names: Sarayloo
+repository-code: "https://github.com/GaganaMD/Investigating-the-Matching-Law-in-Transformer-Based-Reinforcement-Learning-Agents"
+license: Apache-2.0
+preferred-citation:
+  type: report
+  title: "Investigating the Matching Law in Transformer-Based Reinforcement Learning Agents"
+  authors:
+    - given-names: Yagmur
+      family-names: Karakoc
+    - given-names: Emad
+      family-names: Sharifi
+    - given-names: Gagana
+      family-names: "M D"
+    - given-names: Zahra
+      family-names: Sarayloo
+  year: 2025
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.15462678"
